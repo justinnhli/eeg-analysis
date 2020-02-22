@@ -1,4 +1,7 @@
+# hotfix for mne
+# see https://github.com/mne-tools/mne-python/pull/7261
+https://api.github.com/repos/mne-tools/mne-python/zipball/master
+
 bokeh
 jupyter
-mne
 pandas
